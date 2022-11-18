@@ -1,5 +1,5 @@
 # stickman-advanced
-This is a more advanced version of [stickman-basic](https://github.com/dinakb/stickman-basic), a paltformer video game, consisting of a character on the screen, can move left, right and has the ability to jump. The character can also interact with the world, having a floor to stand on, obstacles to interact with (bounce, hit, ..) and maintain a score.
+This is a more advanced version of [stickman-basic](https://github.com/dinakb/stickman-basic), a platformer video game, consisting of a character on the screen, can move left, right and has the ability to jump. The character can also interact with the world, having a floor to stand on, obstacles to interact with (bounce, hit, ..) and maintain a score.
 ![game screenshot](my-stickman.png)
 
 ## Style guide
